@@ -1,6 +1,3 @@
----
-
----
 
 # IGA-Reuse-NET: A deep-learning-based isogeometric analysis-reuse approach with topology-consistent parameterization
 
