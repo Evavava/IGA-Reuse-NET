@@ -4,7 +4,7 @@
 
 # IGA-Reuse-NET: A deep-learning-based isogeometric analysis-reuse approach with topology-consistent parameterization
 
-![](..\data\imgs\ISSA+UNet3+.png)
+![](data\imgs\ISSA+UNet3+.png)
 
 ## Introduction
 
@@ -82,7 +82,7 @@ Here we  implement the posterior error of poisson equation for testing.  We choo
 
 #### Flow Chart
 
-![](..\data\imgs\FlowChart.png)
+![](data\imgs\FlowChart.png)
 
 ## Reference
 
